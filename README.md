@@ -1,5 +1,5 @@
 # XNL-21BRS1698-LLM-2
-this is my LLM task. 
+this is my LLM task. There is a seperate word file of my personal documentation, refer that too.
 
                                           **Ultra-Advanced LLM Fine-Tuning and Optimization**
 Goal:
